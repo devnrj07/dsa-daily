@@ -14,7 +14,8 @@
 Push yourself to code daily till 100 days, and feel the difference!
 
 | Day | Link | Difficulty |
-| ---------- | ----- | ------------ | ---------: |
+| ---------- | ----- | ------------ |
+
 | [Day 1](./Day1) | [I can guess the data structure](https://open.kattis.com/problems/guessthedatastructure) | **Intermediate** |
 
 
