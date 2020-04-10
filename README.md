@@ -20,7 +20,7 @@ Push yourself to code daily till 100 days, and feel the difference!
 | [Day 2](./Each%20day%20code%day!/leetcode/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | **Intermediate** |
 | [Day 3](./Each%20day%20code%day!/leetcode/Happy%2Number/) | [Happy Number](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3284/) | **Beginner** |
 | [Day 4](./Each%20day%20code%day!/leetcode/Maximum%20subarray/) | [Maximum subarray](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3285/) | **Intermediate** | Kadane's algo |
-
+| [Day 5](./Each%20day%20code%day!/leetcode/Move%20zeros/) | [Move Zeros](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3286/) | **Intermediate** | in-place sorting |
 
 
 
