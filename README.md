@@ -24,7 +24,7 @@ Push yourself to code daily till 100 days, and feel the difference!
 | [Day 6](./Each%20day%20code%day!/leetcode/buy%20sell%20II/) | [Buy or sell II](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3287/) | **Basic** | not everything is as complicated as it seems |
 | [Day 7](./Each%20day%20code%day!/leetcode/counting%20elements/) | [Counting Elements](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3288/) | **Basic** | hashset easy lookup |
 | [Day 8](./Each%20day%20code%day!/random/Hash%20Table/java) | [Hash Table]() | **Basic** | implmenting hastable in java |
-| [Day 9](./Each%20day%20code%day!/leetcode/min%20stack/) | [Minimum stack]() | **Basic** | stack basics |
-| [Day 10](./Each%20day%20code%day!/leetcode/contiguous%20array/) | [Contiguous array]() | **Basic** | subarrays, binary arrays |
-
+| [Day 9](./Each%20day%20code%day!/leetcode/min%20stack/) | [Minimum stack](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3292/) | **Basic** | stack basics |
+| [Day 10](./Each%20day%20code%day!/leetcode/contiguous%20array/) | [Contiguous array](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3298/) | **Basic** | subarrays, binary arrays |
+| [Day 11](./Each%20day%20code%day!/leetcode/perform%20string%20shifts/) | [perform string shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | **Basic** |strings, manipulation |
 
