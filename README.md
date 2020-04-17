@@ -27,4 +27,4 @@ Push yourself to code daily till 100 days, and feel the difference!
 | [Day 9](./Each%20day%20code%day!/leetcode/min%20stack/) | [Minimum stack](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3292/) | **Basic** | stack basics |
 | [Day 10](./Each%20day%20code%day!/leetcode/contiguous%20array/) | [Contiguous array](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3298/) | **Basic** | subarrays, binary arrays |
 | [Day 11](./Each%20day%20code%day!/leetcode/perform%20string%20shifts/) | [perform string shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | **Basic** |strings, manipulation |
-
+| [Day 12](./Each%20day%20code%day!/leetcode/valid%20prth%20strings/) | [valid paranthesis strings](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/) | **Basic** |strings, manipulation |
