@@ -26,5 +26,7 @@ Push yourself to code daily till 100 days, and feel the difference!
 | [Day 8](./Each%20day%20code%day!/random/Hash%20Table/java) | [Hash Table]() | **Basic** | implmenting hastable in java |
 | [Day 9](./Each%20day%20code%day!/leetcode/min%20stack/) | [Minimum stack](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3292/) | **Basic** | stack basics |
 | [Day 10](./Each%20day%20code%day!/leetcode/contiguous%20array/) | [Contiguous array](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3298/) | **Basic** | subarrays, binary arrays |
-| [Day 11](./Each%20day%20code%day!/leetcode/perform%20string%20shifts/) | [perform string shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | **Basic** |strings, manipulation |
-| [Day 12](./Each%20day%20code%day!/leetcode/valid%20prth%20strings/) | [valid paranthesis strings](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/) | **Basic** |strings, manipulation |
+| [Day 11](./Each%20day%20code%day!/leetcode/perform%20string%20shifts/) | [Perform string shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | **Basic** |strings, manipulation |
+| [Day 12](./Each%20day%20code%day!/leetcode/valid%20prth%20strings/) | [Valid paranthesis strings](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/) | **Basic** |strings, manipulation |
+| [Day 13](./Each%20day%20code%day!/leetcode/number%20of%20islnds/) | [Number of islands](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3302/) | **Basic** |BFS, DFS, recursion |
+| [Day 14](./Each%20day%20code%day!/leetcode/minimum%20path%20sum/) | [Minimum path sum](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3303/) | **intermediate** |DP, recursion |
