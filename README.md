@@ -32,3 +32,4 @@ Push yourself to code daily till 100 days, and feel the difference!
 | [Day 14](./Each%20day%20code%day!/leetcode/minimum%20path%20sum/) | [Minimum path sum](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3303/) | **intermediate** |DP, recursion |
 |[Day 15](./Each%20day%20code%day!/random/Excel%20column%20name%20from%20a%20given%20column%20number/) | [Find excel column name from a given column number](https://www.geeksforgeeks.org/find-excel-column-name-given-number/) | **basic** |number system, changing base |
 |[Day 16](./Each%20day%20code%day!/random/BST%20from%20preorder/) | [BST from preorder](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3305/) | **basic** |tree traversal, recursion, iterative |
+|[Day 17](./Each%20day%20code%day!/random/Binary%20Search/) | [Search Index](https://leetcode.com/explore/challenge) | **basic** |searching strategies, recursion, iterative |
