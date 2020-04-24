@@ -15,7 +15,7 @@
 Push yourself to code daily till 100 days, and feel the difference!
 
 | Day | Link | Difficulty | Summary
-| ---------- | ------------ | ----- | -------------: |
+| ------------ | ---------- | ----- | -----------: |
 | [Day 1](./Each%20day%20code%day!/kattis/find%datastructure/) | [I can guess the data structure](https://open.kattis.com/problems/guessthedatastructure/) | **Intermediate** |ds to find ds?|
 | [Day 2](./Each%20day%20code%day!/leetcode/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | **Intermediate** |binary search tree :) |
 | [Day 3](./Each%20day%20code%day!/leetcode/Happy%2Number/) | [Happy Number](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3284/) | **Beginner** |numbers == some pattern, find it|
@@ -33,3 +33,7 @@ Push yourself to code daily till 100 days, and feel the difference!
 |[Day 15](./Each%20day%20code%day!/random/Excel%20column%20name%20from%20a%20given%20column%20number/) | [Find excel column name from a given column number](https://www.geeksforgeeks.org/find-excel-column-name-given-number/) | **basic** |number system, changing base |
 |[Day 16](./Each%20day%20code%day!/random/BST%20from%20preorder/) | [BST from preorder](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3305/) | **basic** |tree traversal, recursion, iterative |
 |[Day 17](./Each%20day%20code%day!/random/Binary%20Search/) | [Search Index](https://leetcode.com/explore/challenge) | **basic** |searching strategies, recursion, iterative |
+|[Day 18](./Each%20day%20code%day!/leetcode/backspace%20string%20compare/) | [Backspace string compare](https://leetcode.com/explore/challenge) | **basic** |string manipulation|
+|[Day 19](./Each%20day%20code%day!/leetcode/bitwise%20and%20of%20range/) | [Bitwise AND of range](https://leetcode.com/explore/challenge) | **intermediate** |Bit manipulation, logic|
+
+
