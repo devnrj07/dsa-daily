@@ -36,5 +36,5 @@ Push yourself to code daily till 100 days, and feel the difference!
 |[Day 18](./Each%20day%20code%day!/leetcode/backspace%20string%20compare/) | [Backspace string compare](https://leetcode.com/explore/challenge) | **basic** |string manipulation|
 |[Day 19](./Each%20day%20code%day!/leetcode/bitwise%20and%20of%20range/) | [Bitwise AND of range](https://leetcode.com/explore/challenge) | **intermediate** |Bit manipulation, logic|
 |[Day 20](./Each%20day%20code%day!/leetcode/Subarray%20sum%20equals%20K/) | [Subarray sum equal to K](https://leetcode.com/explore/challenge) | **intermediate** |map, presum|
-
+|[Day 21](./Each%20day%20code%day!/leetcode/Leftmost%20Column%20with%20at%20Least%20a%20One/) | [Leftmost Column with at Least a One](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/) | **intermediate** |matrix, binary search|
 
