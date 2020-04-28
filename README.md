@@ -38,3 +38,4 @@ Push yourself to code daily till 100 days, and feel the difference!
 |[Day 20](./Each%20day%20code%day!/leetcode/Subarray%20sum%20equals%20K/) | [Subarray sum equal to K](https://leetcode.com/explore/challenge) | **intermediate** |map, presum|
 |[Day 21](./Each%20day%20code%day!/leetcode/Leftmost%20Column%20with%20at%20Least%20a%20One/) | [Leftmost Column with at Least a One](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/) | **intermediate** |matrix, binary search|
 |[Day 22](./Each%20day%20code%day!/leetcode/Jump%20game/) | [Jump game](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3310/) | **intermediate** |Greedy approach, DP|
+|[Day 23](./Each%20day%20code%day!/leetcode/LRU%20cache/) | [LRU cache](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3309/) | **intermediate** |Map Doubly LinkedList|
