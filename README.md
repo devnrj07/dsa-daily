@@ -41,3 +41,5 @@ Push yourself to code daily till 100 days, and feel the difference!
 |[Day 23](./Each%20day%20code%day!/leetcode/LRU%20cache/) | [LRU cache](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3309/) | **intermediate** |Map Doubly LinkedList|
 |[Day 24](./Each%20day%20code%day!/leetcode/Maximal%20square/) | [Maximal square](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3312/) | **intermediate** |DP|
 |[Day 25](./Each%20day%20code%day!/leetcode/First%20unique%20number/) | [First unique number](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/) | **intermediate** |Map, heap, set|
+|[Day 26](./Each%20day%20code%day!/leetcode/Valid%20Sequence%20from%20Root%20to%20Leaves/) | [Valid Sequence from Root to Leaves](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3315/) | **intermediate** |Map, heap, set|
+
