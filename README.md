@@ -44,3 +44,4 @@ Push yourself to code daily till 100 days, and feel the difference!
 |[Day 26](./Each%20day%20code%day!/leetcode/Valid%20Sequence%20from%20Root%20to%20Leaves/) | [Valid Sequence from Root to Leaves](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3315/) | **intermediate** |Map, heap, set|
 |[Day 27](./Each%20day%20code%day!/leetcode/Valid%20Sequence%20from%20Root%20to%20Leaves/) | [Largest product](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3315/) | **intermediate** |Arrays|
 |[Day 28](./Each%20day%20code%day!/leetcode/sort%20colors/) | [sort colors](https://leetcode.com/problems/sort-colors/) | **intermediate** |Arrays, counting sort, quick sort|
+|[Day 29](./Each%20day%20code%day!/leetcode/Egg%20drop/) | [Super Egg drop](https://leetcode.com/problems/super-egg-drop/) | **advanced** |DP|
