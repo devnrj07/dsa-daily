@@ -46,3 +46,4 @@ Push yourself to code daily till 100 days, and feel the difference!
 |[Day 28](./Each%20day%20code%day!/leetcode/sort%20colors/) | [sort colors](https://leetcode.com/problems/sort-colors/) | **intermediate** |Arrays, counting sort, quick sort|
 |[Day 29](./Each%20day%20code%day!/leetcode/Egg%20drop/) | [Super Egg drop](https://leetcode.com/problems/super-egg-drop/) | **advanced** |DP|
 |[Day 30](./Each%20day%20code%day!/random/Triplet%20sum%20zero/) | [3 Sum](https://leetcode.com/problems/3sum/) | **intermediate** |arrays, two pointers|
+|[Day 31](./Each%20day%20code%day!/leetcode/Map%20sum/) | [Map Sum](https://leetcode.com/problems/map-sum-pairs/) | **intermediate** |Trie, Map, strings|
