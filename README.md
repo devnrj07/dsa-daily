@@ -49,3 +49,4 @@ Push yourself to code daily till 100 days, and feel the difference!
 |[Day 31](./Each%20day%20code%day!/leetcode/Map%20sum/) | [Map Sum](https://leetcode.com/problems/map-sum-pairs/) | **intermediate** |Trie, Map, strings|
 |[Day 32](./Each%20day%20code%day!/random/Graph%20Traversal/) | [Connecting Flights](https://fireship.io/pro/) | **intermediate** |Graphs, Set|
 |[Day 33](./Each%20day%20code%day!/random/Min%20mutations/) | [Minimum Genetic mutations](https://leetcode.com/problems/minimum-genetic-mutation/) | **intermediate** |Graphs, Set|
+|[Day 34](./Each%20day%20code%day!/leetcode/Median%20of%20stream/) | [Median of the stream](https://leetcode.com/problems/find-median-from-data-stream/) | **intermediate** |heap, insertion sort|
