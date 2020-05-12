@@ -51,3 +51,4 @@ Push yourself to code daily till 100 days, and feel the difference!
 |[Day 33](./Each%20day%20code%day!/random/Min%20mutations/) | [Minimum Genetic mutations](https://leetcode.com/problems/minimum-genetic-mutation/) | **intermediate** |Graphs, Set|
 |[Day 34](./Each%20day%20code%day!/leetcode/Median%20of%20stream/) | [Median of the stream](https://leetcode.com/problems/find-median-from-data-stream/) | **intermediate** |heap, insertion sort|
 |[Day 35](./Each%20day%20code%day!/random/Moving%20of%20average/) | [Mean of the stream](https://leetcode.com/problems/moving-average-from-data-stream/) | **intermediate** |list, General math|
+|[Day 36](./Each%20day%20code%day!/random/Reverse%20word%20III/) | [Reverse words of a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | **basic** |String, StringBuffer|

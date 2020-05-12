@@ -16,6 +16,8 @@ Here we take the first scenario for example, we know the large will gain one mor
 */
 
 class MedianFinder {
+    // large queue holds the larger elements of the stream with the ability to provide the least element in it in O(1)
+//small queue holds the smaller elements of the stream with the ability to provide the largest element in it in O(1)
     private Queue<Long> small, large;
     /** initialize your data structure here. */
     public MedianFinder() {
