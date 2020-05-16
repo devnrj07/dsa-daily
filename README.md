@@ -55,3 +55,4 @@ Push yourself to code daily till 100 days, and feel the difference!
 |[Day 37](./Each%20day%20code%day!/leetcode/LCA%20of%20BT/) | [Least common ancestor of a BT](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | **intermidiate** |Binary Tree|
 |[Day 38](./Each%20day%20code%day!/random/BinaryGap/) | [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | **intermidiate** |Bit manipulation|
 |[Day 39](./Each%20da%20code%day!/random/CyclicRotation/) | [Cyclic Rotation](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | **Painless** |Arrays|
+|[Day 40](./Each%20da%20code%day!/leetcode/Validate%20BT/) | [Validate Binary Tree](https://leetcode.com/problems/validate-binary-search-tree/) | **Painless** |Binary Search Tree, Inorder traversal|
