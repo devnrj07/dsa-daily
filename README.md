@@ -59,3 +59,4 @@ Push yourself to code daily till 100 days, and feel the difference!
 |[Day 41](./Each%20da%20code%day!/leetcode/Product%20of%20Array%20Except%20Self/) | [Product Array except self](https://leetcode.com/articles/product-of-array-except-self/) | **Painless** |Array, intution |
 |[Day 42](./Each%20da%20code%day!/random/TapeEquilibrium/) | [Tape Equilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/start/) | **Painless** |Array, intution |
 |[Day 43](./Each%20da%20code%day!/random/Replace_duplicates_with_zeros/) | [Replace duplicates with zeros]() | **Painless** |Array, intution |
+|[Day 44](./Each%20da%20code%day!/leetcode/Partition%20to%20K%20Equal%20Sum%20Subsets/) | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | **Sweatful** |Backtracking |
