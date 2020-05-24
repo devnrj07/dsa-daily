@@ -60,3 +60,6 @@ Push yourself to code daily till 100 days, and feel the difference!
 |[Day 42](./Each%20da%20code%day!/random/TapeEquilibrium/) | [Tape Equilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/start/) | **Painless** |Array, intution |
 |[Day 43](./Each%20da%20code%day!/random/Replace_duplicates_with_zeros/) | [Replace duplicates with zeros]() | **Painless** |Array, intution |
 |[Day 44](./Each%20da%20code%day!/leetcode/Partition%20to%20K%20Equal%20Sum%20Subsets/) | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | **Sweatful** |Backtracking |
+|[Day 45](./Each%20da%20code%day!/random/Frog_river_one/) | [Frog river jump](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | **Sweatful** |Arrays, bit magic |
+
+|[Day 46](./Each%20da%20code%day!/random/permCheck/) | [Check permutations](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) | **Sweatful** |Bit magic, array manipulation |
