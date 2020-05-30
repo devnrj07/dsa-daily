@@ -63,3 +63,4 @@ Push yourself to code daily till 100 days, and feel the difference!
 |[Day 45](./Each%20da%20code%day!/random/Frog_river_one/) | [Frog river jump](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | **Sweatful** |Arrays, bit magic |
 
 |[Day 46](./Each%20da%20code%day!/random/permCheck/) | [Check permutations](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) | **Sweatful** |Bit magic, array manipulation |
+|[Day 47](./Each%20da%20code%day!/random/MaxCounters/) | [Max Counters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) | **Painless** | array manipulation |
