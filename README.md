@@ -64,3 +64,4 @@ Push yourself to code daily till 100 days, and feel the difference!
 
 |[Day 46](./Each%20da%20code%day!/random/permCheck/) | [Check permutations](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) | **Sweatful** |Bit magic, array manipulation |
 |[Day 47](./Each%20da%20code%day!/random/MaxCounters/) | [Max Counters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) | **Painless** | array manipulation |
+|[Day 48](./Each%20da%20code%day!/random/CountDiv/) | [Count Div](https://app.codility.com/programmers/lessons/5-prefix_sum/count_div/) | **Painless** | Math trick |
