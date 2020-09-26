@@ -66,3 +66,4 @@ Push yourself to code daily till 100 days, and feel the difference!
 |[Day 47](./Each%20da%20code%day!/random/MaxCounters/) | [Max Counters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) | **Painless** | array manipulation |
 |[Day 48](./Each%20da%20code%day!/random/CountDiv/) | [Count Div](https://app.codility.com/programmers/lessons/5-prefix_sum/count_div/) | **Painless** | Math trick |
 |[Day 49](./Each%20da%20code%day!/random/PassingCars/) | [Passing cars](https://app.codility.com/programmers/lessons/5-prefix_sum/passing_cars/) | **Painless** | sum prefix |
+|[Day 50](./Each%20da%20code%day!/random/Flatten_linkedList/) | [Flatten a LinkedList](https://www.geeksforgeeks.org/flattening-a-linked-list/) | **Painful** | Merge Sort |
